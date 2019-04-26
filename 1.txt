@@ -2,3 +2,4 @@ I am learning Git.
 This is test2.
 This is test3.
 This is branch-test.
+Hello jechen!
