@@ -1,1 +1,2 @@
 I am learning Git.
+This is test2.
